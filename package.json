@@ -17,7 +17,7 @@
         "request": "^2.88.2"
     },
     "devDependencies": {
-        "@types/node": "^16.11.4",
+        "@types/node": "^16.11.8",
         "@types/react": "^17.0.31",
         "autoprefixer": "^10.3.7",
         "postcss": "^8.3.11",
