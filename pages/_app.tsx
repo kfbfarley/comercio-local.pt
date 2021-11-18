@@ -15,7 +15,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => (
             <title>COMÉRCIO LOCAL - Comprar & Vender</title>
             <link rel='shortcut icon' href='/store.png' />
         </Head>
-        <Component {...pageProps} />ç{' '}
+        <Component {...pageProps} />
     </React.Fragment>
 )
 
