@@ -19,7 +19,7 @@
     "devDependencies": {
         "@types/node": "^16.11.10",
         "@types/react": "^17.0.31",
-        "@types/node": "^16.11.4",
+        "@types/node": "^16.11.11",
         "@types/react": "^17.0.37",
         "autoprefixer": "^10.3.7",
         "postcss": "^8.4.4",
