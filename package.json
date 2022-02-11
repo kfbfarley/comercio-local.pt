@@ -8,7 +8,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.15.4",
-        "@prisma/client": "^3.8.1",
+        "@prisma/client": "^3.9.2",
         "axios": "^0.25.0",
         "cheerio": "^1.0.0-rc.10",
         "next": "latest",
