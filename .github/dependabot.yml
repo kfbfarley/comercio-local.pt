@@ -1,6 +1,7 @@
 version: 2
 updates:
   - package-ecosystem: "npm"
+    rebase-strategy: "auto"
     directory: "/"
     schedule:
       interval: "daily"
