@@ -1,14 +1,14 @@
 version: 2
 updates:
-  - package-ecosystem: "npm"
-    rebase-strategy: "auto"
-    directory: "/"
-    schedule:
-      interval: "daily"
-    automerged_updates:
-      - match:
-          dependency_type: "all"
-          update_type: "all"
-      - match:
-          dependency_type: "all"
-          update_type: "all"
+    - package-ecosystem: 'npm'
+      rebase-strategy: 'auto'
+      directory: '/'
+      schedule:
+          interval: 'weekly'
+      automerged_updates:
+          - match:
+                dependency_type: 'all'
+                update_type: 'all'
+          - match:
+                dependency_type: 'all'
+                update_type: 'all'
