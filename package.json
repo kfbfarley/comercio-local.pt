@@ -7,7 +7,7 @@
         "start": "next start"
     },
     "dependencies": {
-        "@prisma/client": "^4.4.0",
+        "@prisma/client": "^4.6.0",
         "@fortawesome/fontawesome-free": "^6.2.0",
         "axios": "^1.1.2",
         "cheerio": "1.0.0-rc.12",
